@@ -19,7 +19,7 @@ body {
   width: 100%;
   max-width: 46rem;
   background-color: white;
-  border-radius: 0.5rem;
+  border-radius: 1.15rem;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
